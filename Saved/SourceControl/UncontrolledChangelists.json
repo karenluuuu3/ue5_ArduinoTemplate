@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/Documents/Unreal Projects/ue5_ArduinoTemplate/Content/Maps/main.umap",
+				"C:/Users/user/Documents/Unreal Projects/ue5_ArduinoTemplate/Content/Blueprints/BP_SerialCom_v4_UE511.uasset"
+			]
+		}
+	]
+}
